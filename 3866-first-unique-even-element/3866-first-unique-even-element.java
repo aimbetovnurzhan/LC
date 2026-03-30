@@ -1,6 +1,5 @@
 class Solution {
     public int firstUniqueEven(int[] nums) {
-        int target = -1;
         for (int i = 0; i < nums.length; i ++) {
             if (nums[i] % 2 == 0 && nums[i] != 0) {
                 int cntr = 0;
@@ -11,13 +10,9 @@ class Solution {
                         cntr ++;
                     }
                 }
-                if (cntr > 0) nums[i] = 0;
-                else {
-                    target = nums[i];
-                    break;
-                }
+                if (cntr == 0) return nums[i];
             }
         }
-        return target;
+        return -1;
     }
 }
