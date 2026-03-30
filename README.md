@@ -16,6 +16,7 @@ https://leetcode.com/problems
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [3861-minimum-capacity-box](https://github.com/aimbetovnurzhan/LC/tree/main/3861-minimum-capacity-box/) | Easy |
 | [3866-first-unique-even-element](https://github.com/aimbetovnurzhan/LC/tree/main/3866-first-unique-even-element/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
