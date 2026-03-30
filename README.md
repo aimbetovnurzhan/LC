@@ -13,4 +13,16 @@ https://leetcode.com/problems
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3870-count-commas-in-range](https://github.com/aimbetovnurzhan/LC/tree/main/3870-count-commas-in-range/) | Easy |
+## Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3866-first-unique-even-element](https://github.com/aimbetovnurzhan/LC/tree/main/3866-first-unique-even-element/) | Easy |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3866-first-unique-even-element](https://github.com/aimbetovnurzhan/LC/tree/main/3866-first-unique-even-element/) | Easy |
+## Counting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3866-first-unique-even-element](https://github.com/aimbetovnurzhan/LC/tree/main/3866-first-unique-even-element/) | Easy |
 <!---LeetCode Topics End-->
