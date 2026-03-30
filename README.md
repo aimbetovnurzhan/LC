@@ -26,4 +26,8 @@ https://leetcode.com/problems
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3866-first-unique-even-element](https://github.com/aimbetovnurzhan/LC/tree/main/3866-first-unique-even-element/) | Easy |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3856-trim-trailing-vowels](https://github.com/aimbetovnurzhan/LC/tree/main/3856-trim-trailing-vowels/) | Easy |
 <!---LeetCode Topics End-->
