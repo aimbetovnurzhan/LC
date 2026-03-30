@@ -1,13 +1,11 @@
 class Solution {
     public String trimTrailingVowels(String s) {
         var vowels = new ArrayList<Character>(Arrays.asList('a', 'e', 'i', 'o', 'u'));
-        int pointer = 0;
-        for (int i = s.length() - 1; i >= 0; i--) {
-            if (!vowels.contains(s.charAt(i))) {
-                pointer = i + 1;
-                break;
-            }
+        int i = s.length() - 1;
+        while (i >= 0) {
+            if (!vowels.contains(s.charAt(i))) return s.substring(0, i + 1);;
+            i--;
         }
-        return s.substring(0, pointer);
+        return "";
     }
 }
