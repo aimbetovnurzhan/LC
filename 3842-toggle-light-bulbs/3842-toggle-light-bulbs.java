@@ -6,9 +6,7 @@ class Solution {
             temp[i] ^= 1;
         }
         for (int i = 1; i <= 100; i++) {
-            if (temp[i] == 1) {
-                res.add(i);
-            }
+            if (temp[i] == 1) res.add(i);
         }
         return res;
     }
