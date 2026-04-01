@@ -10,6 +10,7 @@ https://leetcode.com/problems
 | [0182-duplicate-emails](https://github.com/aimbetovnurzhan/LC/tree/main/0182-duplicate-emails/) | Easy |
 | [0183-customers-who-never-order](https://github.com/aimbetovnurzhan/LC/tree/main/0183-customers-who-never-order/) | Easy |
 | [0595-big-countries](https://github.com/aimbetovnurzhan/LC/tree/main/0595-big-countries/) | Easy |
+| [0596-classes-with-at-least-5-students](https://github.com/aimbetovnurzhan/LC/tree/main/0596-classes-with-at-least-5-students/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
