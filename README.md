@@ -9,6 +9,7 @@ https://leetcode.com/problems
 | [0175-combine-two-tables](https://github.com/aimbetovnurzhan/LC/tree/main/0175-combine-two-tables/) | Easy |
 | [0182-duplicate-emails](https://github.com/aimbetovnurzhan/LC/tree/main/0182-duplicate-emails/) | Easy |
 | [0183-customers-who-never-order](https://github.com/aimbetovnurzhan/LC/tree/main/0183-customers-who-never-order/) | Easy |
+| [0595-big-countries](https://github.com/aimbetovnurzhan/LC/tree/main/0595-big-countries/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
