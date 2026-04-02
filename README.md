@@ -18,6 +18,7 @@ https://leetcode.com/problems
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [3838-weighted-word-mapping](https://github.com/aimbetovnurzhan/LC/tree/main/3838-weighted-word-mapping/) | Easy |
 | [3842-toggle-light-bulbs](https://github.com/aimbetovnurzhan/LC/tree/main/3842-toggle-light-bulbs/) | Easy |
 | [3861-minimum-capacity-box](https://github.com/aimbetovnurzhan/LC/tree/main/3861-minimum-capacity-box/) | Easy |
 | [3866-first-unique-even-element](https://github.com/aimbetovnurzhan/LC/tree/main/3866-first-unique-even-element/) | Easy |
@@ -33,6 +34,7 @@ https://leetcode.com/problems
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [3838-weighted-word-mapping](https://github.com/aimbetovnurzhan/LC/tree/main/3838-weighted-word-mapping/) | Easy |
 | [3856-trim-trailing-vowels](https://github.com/aimbetovnurzhan/LC/tree/main/3856-trim-trailing-vowels/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
@@ -41,5 +43,6 @@ https://leetcode.com/problems
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [3838-weighted-word-mapping](https://github.com/aimbetovnurzhan/LC/tree/main/3838-weighted-word-mapping/) | Easy |
 | [3842-toggle-light-bulbs](https://github.com/aimbetovnurzhan/LC/tree/main/3842-toggle-light-bulbs/) | Easy |
 <!---LeetCode Topics End-->
