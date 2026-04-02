@@ -3,11 +3,10 @@ class Solution {
         String res = "";
         for (String word: words) {
             int i = 0;
-            for (char c:word.toCharArray()) {
-                i += weights[c - 'a'];
+            for (char ch:word.toCharArray()) {
+                i += weights[ch - 'a'];
             }
-            i = i % 26;
-            res = res + (char)((25 - i) + 'a');
+            res = res + (char)('z' - i % 26);
         }
         return res;
     }
