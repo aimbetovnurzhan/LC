@@ -36,6 +36,7 @@ https://leetcode.com/problems
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0657-robot-return-to-origin](https://github.com/aimbetovnurzhan/LC/tree/main/0657-robot-return-to-origin/) | Easy |
 | [3838-weighted-word-mapping](https://github.com/aimbetovnurzhan/LC/tree/main/3838-weighted-word-mapping/) | Easy |
 | [3856-trim-trailing-vowels](https://github.com/aimbetovnurzhan/LC/tree/main/3856-trim-trailing-vowels/) | Easy |
 ## Sorting
@@ -45,6 +46,7 @@ https://leetcode.com/problems
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0657-robot-return-to-origin](https://github.com/aimbetovnurzhan/LC/tree/main/0657-robot-return-to-origin/) | Easy |
 | [3838-weighted-word-mapping](https://github.com/aimbetovnurzhan/LC/tree/main/3838-weighted-word-mapping/) | Easy |
 | [3842-toggle-light-bulbs](https://github.com/aimbetovnurzhan/LC/tree/main/3842-toggle-light-bulbs/) | Easy |
 <!---LeetCode Topics End-->
