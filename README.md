@@ -13,6 +13,7 @@ https://leetcode.com/problems
 | [0196-delete-duplicate-emails](https://github.com/aimbetovnurzhan/LC/tree/main/0196-delete-duplicate-emails/) | Easy |
 | [0511-game-play-analysis-i](https://github.com/aimbetovnurzhan/LC/tree/main/0511-game-play-analysis-i/) | Easy |
 | [0577-employee-bonus](https://github.com/aimbetovnurzhan/LC/tree/main/0577-employee-bonus/) | Easy |
+| [0584-find-customer-referee](https://github.com/aimbetovnurzhan/LC/tree/main/0584-find-customer-referee/) | Easy |
 | [0595-big-countries](https://github.com/aimbetovnurzhan/LC/tree/main/0595-big-countries/) | Easy |
 | [0596-classes-with-at-least-5-students](https://github.com/aimbetovnurzhan/LC/tree/main/0596-classes-with-at-least-5-students/) | Easy |
 ## Math
