@@ -18,6 +18,7 @@ https://leetcode.com/problems
 | [0595-big-countries](https://github.com/aimbetovnurzhan/LC/tree/main/0595-big-countries/) | Easy |
 | [0596-classes-with-at-least-5-students](https://github.com/aimbetovnurzhan/LC/tree/main/0596-classes-with-at-least-5-students/) | Easy |
 | [0607-sales-person](https://github.com/aimbetovnurzhan/LC/tree/main/0607-sales-person/) | Easy |
+| [3570-find-books-with-no-available-copies](https://github.com/aimbetovnurzhan/LC/tree/main/3570-find-books-with-no-available-copies/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
